@@ -1,5 +1,13 @@
 /* Layout */
 
+h1 {
+    font-family: 'Montserrat';
+    color: red;
+    text-align: center;
+    margin-top: 2rem;
+    font-size: 42px;
+}
+
 .main {
     display: flex;
     padding: 2em;
@@ -50,7 +58,7 @@
 
 .second-arm {
     fill: none;
-    stroke: #000;
+    stroke: red;
     stroke-width: 4;
     stroke-miterlimit: 10;
 }
